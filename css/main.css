@@ -1,0 +1,22 @@
+* {
+  text-align: center;
+}
+
+body {
+
+  margin-top: 10%;
+  background-image: url("../img/eyeBG.jpg");
+  background-position: center;
+  background-attachment:fixed;
+}
+
+p {
+  font-size: 2rem;
+}
+
+p.answer {
+  background: black;
+  color: white;
+  border: 10px solid pink;
+
+}
